@@ -4,7 +4,7 @@
 I am <b>María Lucía López López </b> better known as 'marialop05' <br>
 I am from <strong>Málaga</strong> <br>
 I love develop new things <br>
-Also I love programming and learn how to create new projects with ❤️ anda also I'm meeting a lot of incredible people here <br>
+Also I love programming and learn how to create new projects with ❤️ and also I'm meeting a lot of incredible people here <br>
 <br><br>
 ### 🧐 More About Me:
 <table style="border: none;">
